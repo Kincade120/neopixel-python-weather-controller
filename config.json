@@ -1,0 +1,11 @@
+{
+    "openweathermap": { 
+        "api":"94a07475ded13637457f5c0f0bf48584" 
+    },
+    "timers": {
+        "refreshTime": 300,
+        "breatheTimeDay": 0.06,
+        "breatheTimeNight": 0.10
+    }
+
+}
