@@ -4,7 +4,7 @@ A simple python based neopixel controller for use on a RaspberryPi that uses dat
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
 ```bash
 pip install requriements.txt
