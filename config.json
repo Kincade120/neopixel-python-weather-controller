@@ -1,6 +1,6 @@
 {
     "openweathermap": { 
-        "api":"94a07475ded13637457f5c0f0bf48584" 
+        "api":"{INSERT OPEN WEATHER TOKEN HERE}" 
     },
     "timers": {
         "refreshTime": 300,
