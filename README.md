@@ -1,6 +1,6 @@
-# neopixel-controller-python
+# neopixel-weather-controller-python
 
-A simple python based neopixel controller for use on RaspberryPi. 
+A simple python based neopixel controller for use on a RaspberryPi that uses data from https://openweathermap.org/api to display conditions. 
 
 ## Installation
 
